@@ -4,6 +4,8 @@
   <artifactId>01_RK_SpringApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+<version>0.0.2-SNAPSHOT</version>
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
 		<dependency>
@@ -11,6 +13,7 @@
 			<artifactId>spring-context</artifactId>
 			<version>5.3.25</version>
 		</dependency>
+
 	</dependencies>
   
 </project>
